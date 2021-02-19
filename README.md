@@ -9,7 +9,7 @@ Downloads ROM from ECU
 
 
 ## mzr-flash
-Programs an ECU ROM
+Programs ECU with a ROM file
 
 ## mzr-checksum
 Verifies and corrects calibration checksums
