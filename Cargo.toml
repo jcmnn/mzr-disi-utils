@@ -1,0 +1,2 @@
+[workspace]
+members = ["mzr", "download", "checksum", "flash", "info", "log"]

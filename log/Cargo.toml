@@ -1,0 +1,16 @@
+[package]
+name = "mzr-log"
+version = "0.1.0"
+authors = ["Altenius <jacobjm18@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = "3.0.0-beta.2"
+j2534 = "0.3.1"
+obd = "0.1.3"
+thiserror = "1.0"
+anyhow = "1.0"
+indicatif = "0.15"
+mzr = { path = "../mzr" }
